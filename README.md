@@ -13,6 +13,6 @@ codes[codes.length - 1];
 codes[codes.denmark.length - 1];
 // { code: "9990", city: "Skagen", street: "", company: "" }
 
-codes.greeland[0];
+codes.greenland[0];
 // { code: "3900", city: "Nuuk", street: "", company:"" }
 ```
